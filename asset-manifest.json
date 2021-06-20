@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-image-to-text/static/css/main.e5fca672.chunk.css",
+    "main.js": "/react-image-to-text/static/js/main.209781f1.chunk.js",
+    "main.js.map": "/react-image-to-text/static/js/main.209781f1.chunk.js.map",
+    "runtime-main.js": "/react-image-to-text/static/js/runtime-main.48150892.js",
+    "runtime-main.js.map": "/react-image-to-text/static/js/runtime-main.48150892.js.map",
+    "static/js/2.ae9342d0.chunk.js": "/react-image-to-text/static/js/2.ae9342d0.chunk.js",
+    "static/js/2.ae9342d0.chunk.js.map": "/react-image-to-text/static/js/2.ae9342d0.chunk.js.map",
+    "index.html": "/react-image-to-text/index.html",
+    "static/css/main.e5fca672.chunk.css.map": "/react-image-to-text/static/css/main.e5fca672.chunk.css.map",
+    "static/js/2.ae9342d0.chunk.js.LICENSE.txt": "/react-image-to-text/static/js/2.ae9342d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48150892.js",
+    "static/js/2.ae9342d0.chunk.js",
+    "static/css/main.e5fca672.chunk.css",
+    "static/js/main.209781f1.chunk.js"
+  ]
+}
